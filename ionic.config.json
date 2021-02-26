@@ -1,0 +1,7 @@
+{
+  "name": "ionic-capacitor-iosrtc-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
